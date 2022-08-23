@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: "your name here"
+author: "veronica gonzalez"
 date: "fall 2020"
 output: html_document
 ---
